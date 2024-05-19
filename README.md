@@ -4,7 +4,7 @@ A simple ERC20 token implementation on the Ethereum blockchain.
 
 ## Description
 
-MyToken is a basic ERC20 token smart contract written in Solidity. This contract allows for the creation (minting) and destruction (burning) of tokens. It features basic functionalities such as tracking token balances and updating the total supply of tokens. You can do the same with the burnit (burn function).
+MyToken is a basic ERC20 token smart contract written in Solidity. This contract allows for the creation (minting) and destruction (burning) of tokens. It features basic functionalities such as tracking token balances and updating the total supply of tokens.
 
 ## Getting Started
 
